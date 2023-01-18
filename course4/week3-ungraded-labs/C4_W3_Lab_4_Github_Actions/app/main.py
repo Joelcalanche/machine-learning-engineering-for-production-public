@@ -3,9 +3,13 @@ import numpy as np
 from typing import List
 from fastapi import FastAPI
 from pydantic import BaseModel, conlist
-
+# estoy intentando que halla disparo
+# intentndo
+# otro comentario
 # probando ci-cd with changes in this file
-
+# otro comentario pa ve 
+# y otro mas 
+# otro mas
 app = FastAPI(title="Predicting Wine Class with batching")
 
 # Open classifier in global scope
